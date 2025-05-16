@@ -1,0 +1,13 @@
+# Node modules for both frontend and backend
+frontend/search-analytics/node_modules/
+backend/mock-api/node_modules/
+
+# Build folders
+frontend/search-analytics/dist/
+backend/mock-api/dist/
+
+# Environment variables
+*.env
+
+# VSCode settings
+.vscode/

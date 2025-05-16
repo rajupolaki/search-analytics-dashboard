@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",             // modern JS target 
+    "module": "Node16",            // or "NodeNext" in TS 5.8+
+    "moduleResolution": "Node16",  // match the module setting
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "rootDir": "src", 
+    "outDir": "dist"
+  }
+}
